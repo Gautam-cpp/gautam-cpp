@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gautam Prajapat</h1>
-<h3 align="center">A passionate fullstack blockchain developer from India</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautam-cpp&label=Profile%20views&color=0e75b6&style=flat" alt="gautam-cpp" /> </p>
 
@@ -67,9 +67,7 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="40" height="40"/> 
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
-</a>
+
 </p>
 
 
@@ -104,6 +102,9 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4unrrweuaj1wyh25npgt.jpeg" alt="nextjs" width="40" height="40"/> 
   </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
+</a>
 </p>
 
 <h3 align="left">Others:</h3>
