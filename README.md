@@ -1,45 +1,130 @@
+<h1 align="center">Hi 👋, I'm Gautam Prajapat</h1>
+<h3 align="center">A passionate fullstack blockchain developer from India</h3>
 
-<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am Gautam Prajapat!</h1>
-<div align="center">
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=gautam-cpp">
-</div>
-<br>
-<p align="center" style="margin-top:10px">
-<b>
-Welcome to my Github profile!</b> <br>
-Scroll down below to find what I do, what I am doing, and what I am upto.<br>   
-<i>Want to collaborate, reach me below.</i>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gautam-cpp&label=Profile%20views&color=0e75b6&style=flat" alt="gautam-cpp" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautam-cpp" alt="gautam-cpp" /></a> </p>
+
+
+- 🔭 I’m currently working on **CuAssist**
+
+- 🌱 I’m currently learning **GenAI**
+
+- ⚡ Fun fact: I debug faster with coffee ☕
+
+- 📫 Reach me at **gautamprajapt2509@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://linkedin.com/in/gautam-cpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam-cpp" height="30" width="40" /></a>
+
 </p>
-<div align="center">
-  <a href="https://www.linkedin.com/in/gautam11-cpp">
-    <img width="30px" src="/assests/linkedin-line.svg"  />
+
+<h2 align="left">Skills:</h2>
+
+<h3 align="left">Programming Languages:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
-  &nbsp;
-</div>
-<br>  
-<h3 align="center">A small introduction ✍</h3>
-<p align="center"> I am a seasoned Full Stack Developer with a deep focus on backend engineering, specializing in building and scaling high-performance applications. My expertise lies in designing and implementing complex, distributed systems that are both resilient and scalable, with a strong emphasis on API development, microservices architecture.
-<br>
-<h3 align="left">About me 🤔</h3>
-<br>
-<br>
-<h3>Github Stats 📈</h3>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
+</p>
 
-| ![Gautam Prajapt GitHub Statistics](https://github-readme-stats.vercel.app/api?username=gautam-cpp&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-cpp) |
-| --- | --- |
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gautam-cpp&theme=light&hide_border=true&line_height=27&width=20) | ![Gautam's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gautam-cpp&layout=compact&langs_count=8&hide_border=true) | 
+<h3 align="left">Frontend Development:</h3>
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a>
+
+</p>
+
+<h3 align="left">Backend Development:</h3>
+<p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="40" height="40"/> 
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
+</a>
+</p>
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=gautam-cpp&theme=github" alt="GitHub Activity Graph" width="100%" />
-<br>
-<div align="center">
-  <br>
-  <p><b>Thank you for your time.</b><br>
-    It was nice having you here.<br><br>
-    If you have any queries or just wanna say hi, <br><b>MAIL ME</b>&nbsp;
-  <a href="mailto:gautamprajapat2509@gmail.com">
-      <img width="20px" src="/assests/gmail.svg" />
-  </a></p>
-</div>
+<h3 align="left">Databases:</h3>
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
+</a>
+</p>
 
-<h1 align="center">See You Again! <br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"></h1>
+<h3 align="left">DevOps:</h3>
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a>
+</p>
+
+<h3 align="left">Frameworks:</h3>
+<p align="left">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4unrrweuaj1wyh25npgt.jpeg" alt="nextjs" width="40" height="40"/> 
+  </a>
+</p>
+
+<h3 align="left">Others:</h3>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+  </a>
+</p>
+
+<h2></h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gautam-cpp&show_icons=true&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-cpp&layout=compact&theme=dark&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautam-cpp&theme=dark&hide_border=true" height="150"/>
+</p>
