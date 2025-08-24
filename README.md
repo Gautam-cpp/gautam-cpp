@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gautam Prajapat</h1>
 <h4 align="center">I am a seasoned Full Stack Developer with a deep focus on backend engineering, specializing in building and scaling high-performance applications. My expertise lies in designing and implementing complex, distributed systems that are both resilient and scalable, with a strong emphasis on API development, microservices architecture.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gautam-cpp&label=Profile%20views&color=0e75b6&style=flat" alt="gautam-cpp" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gautam-cpp&label=Profile%20views&color=0e75b6&style=flat" alt="gautam-cpp" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautam-cpp" alt="gautam-cpp" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gautam-cpp" alt="gautam-cpp" />
+  </a>
+</p>
 
 
 - 🔭 I’m currently working on **CuAssist**
