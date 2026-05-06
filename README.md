@@ -128,7 +128,6 @@
 
 
 
-
-![My GitHub Game](game.gif)
+![My GitHub Game](https://raw.githubusercontent.com/gautam-cpp/gautam-cpp/main/game.gif)
 
 <img src="footer.svg">
