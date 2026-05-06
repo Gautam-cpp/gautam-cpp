@@ -23,8 +23,8 @@
 
 ---
 <!-- About me -->
-
-```About me
+### 👨‍🚀 About Me 
+```
 ~ whoami
 Gautam Prajapat
 
@@ -40,7 +40,7 @@ OS: Arch Linux (I use arch btw)
 ```
 
 ---
-## Tech Stack
+### 🛠️ Tech Stack
 <div align="center">
 <p style="display: inline-block;" align="center">
 <kbd>
@@ -122,7 +122,7 @@ OS: Arch Linux (I use arch btw)
 </div>
 
 ---
-## GitHub Statistics
+### ㊗️ GitHub Statistics
 <div align="center">
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gautam-cpp&theme=tokyonight&hide_border=true" />   
 
@@ -138,7 +138,7 @@ OS: Arch Linux (I use arch btw)
 </div>
 
 ---
-
+## 📈 Contribution Graph
 ![My GitHub Game](https://raw.githubusercontent.com/gautam-cpp/gautam-cpp/main/game.gif)
 
 <img src="footer.svg">
