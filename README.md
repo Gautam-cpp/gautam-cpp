@@ -21,6 +21,26 @@
 </p>
 </p>
 
+---
+<!-- About me -->
+
+```About me
+~ whoami
+Gautam Prajapat
+
+~ ls -l /currently-learning
+-rw-r--r-- 1 Spring Boot
+-rw-r--r-- 2 GenAI/Agentic AI
+
+~ neofetch --os
+OS: Arch Linux (I use arch btw)
+
+~ echo $MOTIVATION
+"Transforming complex problems into elegant, scalable solutions."
+```
+
+---
+## Tech Stack
 <div align="center">
 <p style="display: inline-block;" align="center">
 <kbd>
@@ -102,11 +122,11 @@
 </div>
 
 ---
-
+## GitHub Statistics
 <div align="center">
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gautam-cpp&theme=tokyonight&hide_border=true" />   
 
-<img width="42%" src="https://github-readme-stats.shion.dev/api?username=gautam-cpp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />   
+<img width="44%" src="https://github-readme-stats.shion.dev/api?username=gautam-cpp&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />   
 
 
 
@@ -118,15 +138,6 @@
 </div>
 
 ---
-
-- 🔭 I’m currently working on **CuAssist**
-
-- 🌱 I’m currently learning **GenAI**
-
-- ⚡ Fun fact: I debug faster with coffee ☕
-
-
-
 
 ![My GitHub Game](https://raw.githubusercontent.com/gautam-cpp/gautam-cpp/main/game.gif)
 
